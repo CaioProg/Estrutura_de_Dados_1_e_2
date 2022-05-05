@@ -1,0 +1,4 @@
+﻿  Aula01.cpp
+C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Aula01\Aula01\Aula01.cpp(15,21): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'int *' para 'long'
+C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Aula01\Aula01\Aula01.cpp(15,21): warning C4302: 'conversão de tipo': truncamento de 'int *' para 'long'
+  Aula01.vcxproj -> C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Aula01\x64\Debug\Aula_01.exe
