@@ -1,0 +1,4 @@
+﻿  Atvd01.c
+C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Atividade01\Atividade01\Atvd01.c(19,16): warning C4477: 'printf': a cadeia de formato '%x' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'int **'
+C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Atividade01\Atividade01\Atvd01.c(19,16): warning C4313: 'printf': '%x' na cadeia de formato está em conflito com o argumento 1 do tipo 'int **'
+  Atividade01.vcxproj -> C:\Workspace\EngenhariaDeSoftware\EstruturaDeDados1\Atividade01\x64\Debug\Atividade01.exe
